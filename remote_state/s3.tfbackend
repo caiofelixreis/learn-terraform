@@ -1,0 +1,3 @@
+bucket = "tfelix-692625758600"
+key    = "remote-state/terraform.tfstate"
+region = "us-east-1"
